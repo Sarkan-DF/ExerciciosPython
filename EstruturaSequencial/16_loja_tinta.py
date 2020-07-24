@@ -3,6 +3,8 @@
 # é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta
 # a serem compradas e o preço total.
 
+# Obs.: A função math.ceil aredonda um float para cima ex.: x = 1.4 / x = math.ceil(x) / print(x) / x == 2
+
 import math
 
 area_ha_ser_pintada = float(input("Favor informar a area a ser pintada em M²: "))
