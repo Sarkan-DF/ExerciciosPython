@@ -4,6 +4,7 @@ Para isto, peça a quantidade de turmas e a quantidade de alunos para cada turma
 As turmas não podem ter mais de 40 alunos.
 """
 
+
 def media_alunos():
     turmas = int(input("Qual a quantidade de turmas? "))
     turmas_1 = turmas
@@ -15,6 +16,7 @@ def media_alunos():
     media = alunos / turmas_1
 
     return alunos, turmas_1, media
+
 
 if __name__ == '__main__':
     alunos, turma, media = media_alunos()
