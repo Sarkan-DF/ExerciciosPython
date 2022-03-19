@@ -15,21 +15,21 @@ temperatura2 = 0
 
 for i in range(1,13):
     if i == 1:
-        temperatura = float(input("Digite a temperatu do mes de Janeiro: "))
+        temperatura = float(input("Digite a temperatura do mes de Janeiro: "))
         temperatura2 += temperatura
         lista_jan.append(1)
         lista_jan.append("Janeiro")
         lista_jan.append(temperatura)
         lista_meses.append(lista_jan)
     elif i == 2:
-        temperatura = float(input("Digite a temperatu do mes de Fevereiro: "))
+        temperatura = float(input("Digite a temperatura do mes de Fevereiro: "))
         temperatura2 += temperatura
         lista_fev.append(2)
         lista_fev.append("Fevereiro")
         lista_fev.append(temperatura)
         lista_meses.append(lista_fev)
     elif i == 3:
-        temperatura = float(input("Digite a temperatu do mes de Março: "))
+        temperatura = float(input("Digite a temperatura do mes de Março: "))
         temperatura2 += temperatura
         lista_mar.append(3)
         lista_mar.append("Março")
