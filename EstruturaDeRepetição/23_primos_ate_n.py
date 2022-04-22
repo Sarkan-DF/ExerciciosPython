@@ -7,8 +7,8 @@ contador = 0
 lista_primos = []
 num_divisoes = 0
 
-for num in range(2,ate_numero_primo+1):
-    for x in range(2,num):
+for num in range(2, ate_numero_primo+1):
+    for x in range(2, num):
         num_divisoes += 1
         if num % x == 0:
             contador += 1
