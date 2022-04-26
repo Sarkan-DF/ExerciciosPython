@@ -4,6 +4,7 @@ a.Atributos: Tamanho do lado
 b.Métodos: Mudar valor do Lado, Retornar valor do Lado e calcular Área;
 """
 
+
 class Quadrado():
     def __init__(self, tamanho_lado=0):
         self.tamanho_lado = tamanho_lado

@@ -10,6 +10,7 @@ Panificadora Pão de Ontem - Tabela de preços
 50 - R$ 9.00
 """
 
+
 def tabela_pao():
     preco_cliente = float(input("Qual será o valor do paozinho? "))
     cont = 1
