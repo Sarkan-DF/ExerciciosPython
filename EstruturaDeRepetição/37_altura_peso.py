@@ -74,7 +74,7 @@ def mais_leve():
 
 
 if __name__ == '__main__':
-    #mais_pesado()
-    #mais_leve()
+    mais_pesado()
+    mais_leve()
     mais_alto()
     mais_baixo()
