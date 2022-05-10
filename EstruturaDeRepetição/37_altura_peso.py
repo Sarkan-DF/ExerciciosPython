@@ -29,6 +29,7 @@ def altura_peso():
 
 lista_dados = altura_peso()
 
+
 def mais_alto():
     lista_dados2 = []
     for i in lista_dados:
