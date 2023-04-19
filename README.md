@@ -1,6 +1,6 @@
 # Sobre o projeto
 ## Exercicios em Python
-Neste projeto vou resolver exercícios de Python do https://wiki.python.org.br/ListaDeExercicios.
+Neste projeto resolvi exercícios de Python do https://wiki.python.org.br/ListaDeExercicios, use os exercicios para treinar minha capacidade de resolver os problems propostos.
 <br>
 Abaixo alguns código:
 <br>
